@@ -1,0 +1,3 @@
+Id,Start time,Completion time,Email,Name,Name1,Project,Progress,Blockers,Next Steps,Weekly Status Update
+1,7/7/2025 13:02,7/7/2025 13:02,IDarman@njtransit.com,Isabelle Darman,Isabelle,Automating weekly report,,,,"Started working on project, should finish by EOD."
+2,7/7/2025 13:06,7/7/2025 13:07,IDarman@njtransit.com,Isabelle Darman,Isabelle,Weekly Report Automater,"Made form, started exploring ways to automate the formatting in a PDF","Do not have Microsoft Power Automate, so I will have to code something to parse the CSV",Figure out what python library to use to parse the CSV and return a word or pdf document,
